@@ -6,7 +6,7 @@ This is my version of [Everforest](https://github.com/sainnhe/everforest) theme 
 
 ![LaTeX editing](https://github.com/atomashevic/everforest-micro/assets/39856297/91b389c5-35dc-47d5-9c29-08a7d3b13a1f)
 
-I use it with [Everforest Tilix theme](https://github.com/spacefall/everforest-tilix).
+I use it with [Everforest Tilix theme](https://github.com/spacefall/everforest-tilix) and [Commit Mono](https://github.com/eigilnikolajsen/commit-mono) font.
 
 ## Installation
 
