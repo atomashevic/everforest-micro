@@ -8,6 +8,11 @@ This is my version of [Everforest](https://github.com/sainnhe/everforest) theme 
 
 I use it with [Everforest Tilix theme](https://github.com/spacefall/everforest-tilix) and [Commit Mono](https://github.com/eigilnikolajsen/commit-mono) font.
 
-## Installation
+## Usage
+
+1. Clone this repository
+2. Copy `everforest.micro` from to ~/.config/micro/colorschemes (create folder if it doesn't exist)
+3. Add `export "MICRO_TRUECOLOR=1"` to your shell RC file (bashrc, zshrc, config.fish ...)
+4. Open Micro, press Ctrl+e, type `set colorscheme everforest` and press Enter
 
 
